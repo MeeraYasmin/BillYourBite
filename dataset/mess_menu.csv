@@ -1,0 +1,356 @@
+Week_Type,Day,Meal_Type,Dish_Name,Average_Price
+Odd,Monday,Breakfast,Vegetable Rava Kitcheddy,25
+Odd,Monday,Breakfast,Sambar,15
+Odd,Monday,Breakfast,Coconut Chutney,10
+Odd,Monday,Breakfast,Medhu Vadai (1no),15
+Odd,Monday,Breakfast,BBJ,10
+Odd,Tuesday,Breakfast,Podi Uthappam,20
+Odd,Tuesday,Breakfast,Sambar,15
+Odd,Tuesday,Breakfast,Kara Chutney,10
+Odd,Tuesday,Breakfast,Cooked Oats,15
+Odd,Wednesday,Breakfast,Lemon / Tomato Sevai,20
+Odd,Wednesday,Breakfast,Sambar,15
+Odd,Wednesday,Breakfast,Coconut Chutney,10
+Odd,Wednesday,Breakfast,Ragi Kozhu & BBJ,15
+Odd,Wednesday,Breakfast,Curd Chilly,5
+Odd,Thursday,Breakfast,Carrot Malli Uthappam,20
+Odd,Thursday,Breakfast,Sambar,15
+Odd,Thursday,Breakfast,Coconut Chutney,10
+Odd,Thursday,Breakfast,Sprouts,10
+Odd,Friday,Breakfast,Pongal,20
+Odd,Friday,Breakfast,Kosthu,10
+Odd,Friday,Breakfast,Coconut Chutney,10
+Odd,Friday,Breakfast,Medhu Vadai (1no),15
+Odd,Friday,Breakfast,Corn Flakes & Hot Milk,20
+Odd,Saturday,Breakfast,Semiya Upma,15
+Odd,Saturday,Breakfast,Sambar,15
+Odd,Saturday,Breakfast,Kara Chutney,10
+Odd,Saturday,Breakfast,Dall Vadai (1no),15
+Odd,Saturday,Breakfast,BBJ,10
+Odd,Sunday,Breakfast,Idly,8
+Odd,Sunday,Breakfast,Vada Curry,10
+Odd,Sunday,Breakfast,Tomato Chutney,8
+Odd,Sunday,Breakfast,Podi & Oil,5
+Odd,Monday,Lunch,Chappathi,10
+Odd,Monday,Lunch,Black Channa Masala,15
+Odd,Monday,Lunch,White Rice,8
+Odd,Monday,Lunch,Onion Drumstick Sambar,15
+Odd,Monday,Lunch,Mix Veg Poriyal,12
+Odd,Monday,Lunch,Karamani Poriyal,10
+Odd,Monday,Lunch,Tomato Rasam,8
+Odd,Monday,Lunch,Curd,7
+Odd,Monday,Lunch,Fryums,6
+Odd,Monday,Lunch,Pickle,4
+Odd,Tuesday,Lunch,Chappathi,10
+Odd,Tuesday,Lunch,Dhall Fry,12
+Odd,Tuesday,Lunch,White Rice,8
+Odd,Tuesday,Lunch,Bindi Karakulambu,10
+Odd,Tuesday,Lunch,Raw Banana Poriyal,10
+Odd,Tuesday,Lunch,Keerai Kootu,10
+Odd,Tuesday,Lunch,Malli Rasam,8
+Odd,Tuesday,Lunch,Curd,7
+Odd,Tuesday,Lunch,Paruppu Podi & Oil,7
+Odd,Tuesday,Lunch,Pickle,4
+Odd,Wednesday,Lunch,Chappathi,10
+Odd,Wednesday,Lunch,White Channa Masala,12
+Odd,Wednesday,Lunch,White Rice,8
+Odd,Wednesday,Lunch,Arachu Vitta Sambar,12
+Odd,Wednesday,Lunch,Aloo Bhindi Poriyal,12
+Odd,Wednesday,Lunch,Carrot Poriyal,10
+Odd,Wednesday,Lunch,Mysore Rasam,8
+Odd,Wednesday,Lunch,Curd,7
+Odd,Wednesday,Lunch,Fryums,6
+Odd,Wednesday,Lunch,Whole Fruit,12
+Odd,Thursday,Lunch,Chappathi,10
+Odd,Thursday,Lunch,Aloo Capsicum Masala,15
+Odd,Thursday,Lunch,White Rice,8
+Odd,Thursday,Lunch,Pumpkin Morekulambu,15
+Odd,Thursday,Lunch,Yam 65,12
+Odd,Thursday,Lunch,Chow Chow Kottu,10
+Odd,Thursday,Lunch,Garlic Rasam,8
+Odd,Thursday,Lunch,Curd,7
+Odd,Thursday,Lunch,Appalam (1no),5
+Odd,Thursday,Lunch,Paruppu Podi & Oil,7
+Odd,Friday,Lunch,Chappathi,10
+Odd,Friday,Lunch,Paneer Butter Masala,18
+Odd,Friday,Lunch,White Rice,8
+Odd,Friday,Lunch,Keerai Sambar,12
+Odd,Friday,Lunch,Beetroot Channa Poriyal,10
+Odd,Friday,Lunch,Aviyal,12
+Odd,Friday,Lunch,Pineapple Rasam,8
+Odd,Friday,Lunch,Curd,7
+Odd,Friday,Lunch,Fryums,6
+Odd,Friday,Lunch,Gongura,7
+Odd,Saturday,Lunch,Chappathi,10
+Odd,Saturday,Lunch,Green Peas Masala,12
+Odd,Saturday,Lunch,White Rice,8
+Odd,Saturday,Lunch,Keerai Sambar,12
+Odd,Saturday,Lunch,Vatha Kulambu,12
+Odd,Saturday,Lunch,Pumpkin Kottu,10
+Odd,Saturday,Lunch,Beans Usili,10
+Odd,Saturday,Lunch,Dhall Rasam,8
+Odd,Saturday,Lunch,Curd,7
+Odd,Saturday,Lunch,Appalam (1no),5
+Odd,Saturday,Lunch,Pickle,4
+Odd,Saturday,Lunch,Paruppu Podi & Oil,7
+Odd,Sunday,Lunch,Aloo Paratha,10
+Odd,Sunday,Lunch,Hyderabad Veg Biriyani,30
+Odd,Sunday,Lunch,Boondhi Raitha,8
+Odd,Sunday,Lunch,White Rice,8
+Odd,Sunday,Lunch,Dhall with Ghee,10
+Odd,Sunday,Lunch,Rasam,8
+Odd,Sunday,Lunch,Curd,7
+Odd,Sunday,Lunch,Pickle,4
+Odd,Sunday,Lunch,Appalam (1no),5
+Odd,Sunday,Lunch,Ice Cream,10
+Odd,Sunday,Lunch,Poosani Kottu,8
+Odd,Monday,Snacks,Fried/Boiled Peanut Sundal,6
+Odd,Monday,Snacks,Tea & Coffee,8
+Odd,Tuesday,Snacks,Veg Puff,10
+Odd,Tuesday,Snacks,Tea & Coffee,8
+Odd,Wednesday,Snacks,Keerai Vadai,8
+Odd,Wednesday,Snacks,Tea & Coffee,8
+Odd,Thursday,Snacks,Butter Biscuits,6
+Odd,Thursday,Snacks,Tea & Coffee,8
+Odd,Friday,Snacks,Mixture / Karasev,7
+Odd,Friday,Snacks,Tea & Coffee,8
+Odd,Saturday,Snacks,Rava Kesari,8
+Odd,Saturday,Snacks,Tea & Coffee,8
+Odd,Sunday,Snacks,Tea Cake (egg less),8
+Odd,Sunday,Snacks,Bhel Pori,7
+Odd,Sunday,Snacks,Tea & Coffee,8
+Odd,Monday,Dinner,Chappathi,10
+Odd,Monday,Dinner,Aloo Mutter Masala,15
+Odd,Monday,Dinner,Mint Rice,12
+Odd,Monday,Dinner,White Rice,8
+Odd,Monday,Dinner,Rasam,8
+Odd,Monday,Dinner,Butter Milk,7
+Odd,Monday,Dinner,Fryums & Pickle,10
+Odd,Monday,Dinner,Banana (1no),5
+Odd,Tuesday,Dinner,Idly,8
+Odd,Tuesday,Dinner,Sambar,15
+Odd,Tuesday,Dinner,Coconut Chutney,10
+Odd,Tuesday,Dinner,Chappathi,10
+Odd,Tuesday,Dinner,Mix Veg Gravy,15
+Odd,Tuesday,Dinner,Curd Rice,10
+Odd,Tuesday,Dinner,Fryums,6
+Odd,Tuesday,Dinner,Pickle,4
+Odd,Tuesday,Dinner,Banana (1no),5
+Odd,Wednesday,Dinner,Butter Chappathi,12
+Odd,Wednesday,Dinner,Kadai Veg Gravy,15
+Odd,Wednesday,Dinner,Tamarind Rice,12
+Odd,Wednesday,Dinner,Thovaiyal,8
+Odd,Wednesday,Dinner,White Rice,8
+Odd,Wednesday,Dinner,Curd Rice,10
+Odd,Wednesday,Dinner,Fryums,6
+Odd,Wednesday,Dinner,Pickle,4
+Odd,Wednesday,Dinner,Banana (1no),5
+Odd,Thursday,Dinner,Chappathi,10
+Odd,Thursday,Dinner,Black Channa Masala,15
+Odd,Thursday,Dinner,Karakuzhambu Satham,10
+Odd,Thursday,Dinner,Urulai Patani Pal Kottu,12
+Odd,Thursday,Dinner,White Rice,8
+Odd,Thursday,Dinner,Rasam,8
+Odd,Thursday,Dinner,Butter Milk,7
+Odd,Thursday,Dinner,Pickle,4
+Odd,Thursday,Dinner,Banana (1no),5
+Odd,Friday,Dinner,Kal Dosa,12
+Odd,Friday,Dinner,Sambar,15
+Odd,Friday,Dinner,Kara Chutney,10
+Odd,Friday,Dinner,Tomato Rice / Coconut Rice,12
+Odd,Friday,Dinner,Raitha / Fryums,10
+Odd,Friday,Dinner,Butter Milk,7
+Odd,Friday,Dinner,Pickle,4
+Odd,Friday,Dinner,Banana (1no),5
+Odd,Saturday,Dinner,Upma,10
+Odd,Saturday,Dinner,Coconut Chutney,10
+Odd,Saturday,Dinner,White Rice,8
+Odd,Saturday,Dinner,Rasam,8
+Odd,Saturday,Dinner,Potato Poriyal,8
+Odd,Saturday,Dinner,Pickle,4
+Odd,Saturday,Dinner,Butter Milk,7
+Odd,Saturday,Dinner,Banana (1no),5
+Odd,Sunday,Dinner,Chappathi,10
+Odd,Sunday,Dinner,Aloo Capsicum Masala,15
+Odd,Sunday,Dinner,Brinji Rice,12
+Odd,Sunday,Dinner,Raitha,8
+Odd,Sunday,Dinner,Curd Rice,10
+Odd,Sunday,Dinner,Pickle,4
+Odd,Sunday,Dinner,Banana (1no),5
+Even,Monday,Breakfast,Pongal,20
+Even,Monday,Breakfast,Tiffin Sambar,15
+Even,Monday,Breakfast,Coconut Chutney,10
+Even,Monday,Breakfast,Medhu Vadai (1no),15
+Even,Monday,Breakfast,Corn Flakes & Hot Milk,20
+Even,Tuesday,Breakfast,Idly,8
+Even,Tuesday,Breakfast,Peanut Chutney,10
+Even,Tuesday,Breakfast,Vadai,10
+Even,Tuesday,Breakfast,Podi & Oil,5
+Even,Wednesday,Breakfast,Semiya Kitchedi,15
+Even,Wednesday,Breakfast,Carrot Beans Sambar,15
+Even,Wednesday,Breakfast,Sambar,15
+Even,Wednesday,Breakfast,Ragi Koolu & Curd Chilly,15
+Even,Wednesday,Breakfast,BBJ,10
+Even,Thursday,Breakfast,Mix Veg Uthappam,20
+Even,Thursday,Breakfast,Small Onion Sambar,15
+Even,Thursday,Breakfast,Kara Chutney,10
+Even,Thursday,Breakfast,Multi Grain Kozhulu,15
+Even,Friday,Breakfast,Rava Upma/Millets,15
+Even,Friday,Breakfast,Sambar,15
+Even,Friday,Breakfast,Coconut Chutney & Vadai,12
+Even,Friday,Breakfast,Sandwich Bread BBJ,10
+Even,Friday,Breakfast,Onion,5
+Even,Friday,Breakfast,Cucumber,5
+Even,Friday,Breakfast,Tomato & Green Chutney,5
+Even,Saturday,Breakfast,Ragi Dosai,15
+Even,Saturday,Breakfast,Drumstick Sambar,15
+Even,Saturday,Breakfast,Mint Chutney,10
+Even,Saturday,Breakfast,Cooked Oats,15
+Even,Sunday,Breakfast,Poori,10
+Even,Sunday,Breakfast,Aloo Masala,10
+Even,Sunday,Breakfast,BBJ,10
+Even,Monday,Lunch,Chappathi,10
+Even,Monday,Lunch,Dall Taduka,12
+Even,Monday,Lunch,White Kurma,12
+Even,Monday,Lunch,White Rice,8
+Even,Monday,Lunch,Raddish Sambar,12
+Even,Monday,Lunch,Cabbage Peas Poriyal,10
+Even,Monday,Lunch,Urulai Kara Curry,12
+Even,Monday,Lunch,Tomato Rasam,8
+Even,Monday,Lunch,Curd,7
+Even,Monday,Lunch,Fryums,6
+Even,Monday,Lunch,Tomato Pickle (seasonal),6
+Even,Tuesday,Lunch,Chappathi,10
+Even,Tuesday,Lunch,White Kurma,12
+Even,Tuesday,Lunch,White Rice,8
+Even,Tuesday,Lunch,Karakulambu,12
+Even,Tuesday,Lunch,Raw Banana Poriyal,10
+Even,Tuesday,Lunch,Keerai Kootu,10
+Even,Tuesday,Lunch,Dhall Rasam,8
+Even,Tuesday,Lunch,Curd,7
+Even,Tuesday,Lunch,Appalam (1no),5
+Even,Tuesday,Lunch,Gongura Pickle,6
+Even,Wednesday,Lunch,Chappathi,10
+Even,Wednesday,Lunch,Palak Paneer,18
+Even,Wednesday,Lunch,White Rice & Coconut Rice,10
+Even,Wednesday,Lunch,Bhindi Morekulambu,12
+Even,Wednesday,Lunch,Yam Channa Poriyal,12
+Even,Wednesday,Lunch,Pepper Rasam,8
+Even,Wednesday,Lunch,Curd,7
+Even,Wednesday,Lunch,Fryums,6
+Even,Wednesday,Lunch,Whole Fruit,12
+Even,Thursday,Lunch,Chappathi,10
+Even,Thursday,Lunch,Rajma Masala,15
+Even,Thursday,Lunch,White Rice,8
+Even,Thursday,Lunch,Mix Veg Sambar,12
+Even,Thursday,Lunch,Aloo 65,12
+Even,Thursday,Lunch,Snacksgourd Kootu,10
+Even,Thursday,Lunch,Mysore Rasam,8
+Even,Thursday,Lunch,Curd,7
+Even,Thursday,Lunch,Fryums,6
+Even,Thursday,Lunch,Paruppu Podi & Oil,7
+Even,Friday,Lunch,Chappathi,10
+Even,Friday,Lunch,Veg Salna,15
+Even,Friday,Lunch,White Rice,8
+Even,Friday,Lunch,Yam Khee Sambar,12
+Even,Friday,Lunch,Beetroot Channa Poriyal,10
+Even,Friday,Lunch,Chow Chow Kottu,10
+Even,Friday,Lunch,Lemon Rasam,8
+Even,Friday,Lunch,Curd,7
+Even,Friday,Lunch,Appalam (1no),5
+Even,Friday,Lunch,Pickle,4
+Even,Friday,Lunch,Mini Jankiri,7
+Even,Saturday,Lunch,Chappathi,10
+Even,Saturday,Lunch,Green Peas Kurma,12
+Even,Saturday,Lunch,White Rice,8
+Even,Saturday,Lunch,Sundavathal Kulambu,12
+Even,Saturday,Lunch,Yellow Dal & Ghee,10
+Even,Saturday,Lunch,Beans Usili,10
+Even,Saturday,Lunch,Aviyal,12
+Even,Saturday,Lunch,Garlic Rasam,8
+Even,Saturday,Lunch,Curd,7
+Even,Saturday,Lunch,Fryums,6
+Even,Saturday,Lunch,Gongura Pickle,6
+Even,Sunday,Lunch,Veg Fried/Seshwan Fried Rice,20
+Even,Sunday,Lunch,Manjurian,15
+Even,Sunday,Lunch,White Rice,8
+Even,Sunday,Lunch,Yellow Dal & Ghee,10
+Even,Sunday,Lunch,Aloo Kara Curry,12
+Even,Sunday,Lunch,Tomato Rasam,8
+Even,Sunday,Lunch,Buttermilk,7
+Even,Sunday,Lunch,Pickle,4
+Even,Sunday,Lunch,Appalam (1no),5
+Even,Sunday,Lunch,2nd Week Semiya,10
+Even,Sunday,Lunch,Payasam/Paruppu,8
+Even,Sunday,Lunch,Lemon Juice,5
+Even,Monday,Snacks,Peanut Sundal,6
+Even,Monday,Snacks,Tea & Coffee,8
+Even,Tuesday,Snacks,Cutlet,8
+Even,Tuesday,Snacks,Tea & Coffee,8
+Even,Wednesday,Snacks,Masala Pori,7
+Even,Wednesday,Snacks,Tea & Coffee,8
+Even,Thursday,Snacks,White Channa Sundal,7
+Even,Thursday,Snacks,Tea & Coffee,8
+Even,Friday,Snacks,Millets,10
+Even,Friday,Snacks,Tea & Coffee,8
+Even,Saturday,Snacks,Bajji (2),10
+Even,Saturday,Snacks,Tea & Coffee,8
+Even,Sunday,Snacks,Cream Bun,7
+Even,Sunday,Snacks,Samosa,10
+Even,Sunday,Snacks,Tea & Coffee,8
+Even,Monday,Dinner,Chappathi,10
+Even,Monday,Dinner,Mix Veg Gravy,15
+Even,Monday,Dinner,Tamarind Rice,12
+Even,Monday,Dinner,Thovaiyal,8
+Even,Monday,Dinner,White Rice,8
+Even,Monday,Dinner,Rasam,8
+Even,Monday,Dinner,Butter Milk,7
+Even,Monday,Dinner,Fryums & Pickle,10
+Even,Monday,Dinner,Banana (1no),5
+Even,Tuesday,Dinner,Dosa,10
+Even,Tuesday,Dinner,Sambar,15
+Even,Tuesday,Dinner,Coconut Chutney,10
+Even,Tuesday,Dinner,Chappathi,10
+Even,Tuesday,Dinner,Malli Rice,10
+Even,Tuesday,Dinner,Fryums,6
+Even,Tuesday,Dinner,Pickle,4
+Even,Tuesday,Dinner,Banana (1no),5
+Even,Wednesday,Dinner,Chappathi,10
+Even,Wednesday,Dinner,Veg Kuruma,15
+Even,Wednesday,Dinner,Potato Poriyal,8
+Even,Wednesday,Dinner,Curd Rice,10
+Even,Wednesday,Dinner,Fryums,6
+Even,Wednesday,Dinner,Pickle,4
+Even,Wednesday,Dinner,Banana (1no),5
+Even,Thursday,Dinner,Veg Biriyani,25
+Even,Thursday,Dinner,Raitha,8
+Even,Thursday,Dinner,Potato Chips,8
+Even,Thursday,Dinner,White Rice,8
+Even,Thursday,Dinner,Butter Milk,7
+Even,Thursday,Dinner,Rasam,8
+Even,Thursday,Dinner,Pickle,4
+Even,Thursday,Dinner,Banana (1no),5
+Even,Friday,Dinner,Onion Uthappam,12
+Even,Friday,Dinner,Sambar,15
+Even,Friday,Dinner,Malli Chutney,10
+Even,Friday,Dinner,White Rice,8
+Even,Friday,Dinner,Thuvaiyal,8
+Even,Friday,Dinner,Rasam,8
+Even,Friday,Dinner,Pickle,4
+Even,Friday,Dinner,Banana (1no),5
+Even,Saturday,Dinner,Butter Chappathi,12
+Even,Saturday,Dinner,Black Channa Masala,15
+Even,Saturday,Dinner,Rasam Rice,10
+Even,Saturday,Dinner,White Rice,8
+Even,Saturday,Dinner,Butter Milk,7
+Even,Saturday,Dinner,Fryums,6
+Even,Saturday,Dinner,Pickle,4
+Even,Saturday,Dinner,Banana (1no),5
+Even,Sunday,Dinner,Idly,8
+Even,Sunday,Dinner,Sambar & Coconut Chutney,15
+Even,Sunday,Dinner,Tomato Rice,12
+Even,Sunday,Dinner,Raitha,8
+Even,Sunday,Dinner,Curd Rice,10
+Even,Sunday,Dinner,Fryums,6
+Even,Sunday,Dinner,Pickle,4
+Even,Sunday,Dinner,Banana (1no),5
