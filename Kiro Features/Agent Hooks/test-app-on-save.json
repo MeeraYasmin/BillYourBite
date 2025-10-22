@@ -1,0 +1,15 @@
+{
+  "name": "Test BillYourBite App",
+  "description": "Automatically test the Streamlit app when app.py is saved",
+  "trigger": {
+    "type": "file_save",
+    "pattern": "app.py"
+  },
+  "actions": [
+    {
+      "type": "agent_execution",
+      "prompt": "Run comprehensive validation tests on the BillYourBite app:\n1. Check for syntax errors and imports\n2. Validate menu data loading and error handling\n3. Test student information form validation\n4. Verify price calculation logic with edge cases\n5. Test responsive UI components (columns, forms)\n6. Validate file naming for downloads with student info\n7. Check accessibility and user experience\n8. Report any issues or improvements needed"
+    }
+  ],
+  "enabled": true
+}

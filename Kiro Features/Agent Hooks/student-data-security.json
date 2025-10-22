@@ -1,0 +1,14 @@
+{
+  "name": "Student Data Security Check",
+  "description": "Manual security review for student information handling",
+  "trigger": {
+    "type": "manual"
+  },
+  "actions": [
+    {
+      "type": "agent_execution",
+      "prompt": "Perform security and privacy review for student data handling:\n1. Check if student information is properly validated\n2. Verify no sensitive data is logged or cached inappropriately\n3. Review file naming to ensure no PII exposure\n4. Validate input sanitization for name and registration fields\n5. Check for potential data leakage in error messages\n6. Ensure compliance with student privacy guidelines\n7. Review session state management for student data\n8. Suggest improvements for data protection\n9. Verify secure handling of student information in downloads"
+    }
+  ],
+  "enabled": true
+}

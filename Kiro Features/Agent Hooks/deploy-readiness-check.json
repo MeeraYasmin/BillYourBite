@@ -1,0 +1,14 @@
+{
+  "name": "Deploy Readiness Check",
+  "description": "Manual hook to verify app is ready for deployment",
+  "trigger": {
+    "type": "manual"
+  },
+  "actions": [
+    {
+      "type": "agent_execution",
+      "prompt": "Perform deployment readiness check for BillYourBite:\n1. Verify all dependencies are listed\n2. Check for hardcoded paths or URLs\n3. Validate error handling coverage\n4. Test with edge cases (empty selections, invalid data)\n5. Verify responsive design works on mobile\n6. Check performance with large datasets\n7. Generate deployment checklist"
+    }
+  ],
+  "enabled": true
+}

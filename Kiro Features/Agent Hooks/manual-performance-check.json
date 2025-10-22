@@ -1,0 +1,14 @@
+{
+  "name": "Performance & UX Review",
+  "description": "Manual hook to review app performance and user experience",
+  "trigger": {
+    "type": "manual"
+  },
+  "actions": [
+    {
+      "type": "agent_execution",
+      "prompt": "Perform a comprehensive review of BillYourBite app:\n1. Analyze code for performance bottlenecks (caching, form handling)\n2. Review UI/UX following our design standards\n3. Evaluate student information form usability\n4. Check responsive design with multiple columns\n5. Assess accessibility compliance for forms and inputs\n6. Validate error handling for student data and calculations\n7. Review file download naming with student information\n8. Suggest optimizations for data loading and state management\n9. Recommend improvements for overall user experience"
+    }
+  ],
+  "enabled": true
+}

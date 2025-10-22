@@ -1,0 +1,14 @@
+{
+  "name": "Student Data Migration Helper",
+  "description": "Manual hook to help migrate or update student data structures",
+  "trigger": {
+    "type": "manual"
+  },
+  "actions": [
+    {
+      "type": "agent_execution",
+      "prompt": "Help with student data migration tasks:\n1. Analyze current student data structure in app.py\n2. Check for any data format inconsistencies\n3. Validate department list against SASTRA standards\n4. Review file naming patterns for downloads\n5. Suggest data migration strategies if needed\n6. Check for any legacy data handling issues\n7. Provide recommendations for data structure improvements\n8. Ensure backward compatibility with existing functionality"
+    }
+  ],
+  "enabled": true
+}

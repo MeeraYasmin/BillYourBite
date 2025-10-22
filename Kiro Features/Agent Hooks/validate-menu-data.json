@@ -1,0 +1,15 @@
+{
+  "name": "Validate Menu Data",
+  "description": "Check menu CSV for data integrity when modified",
+  "trigger": {
+    "type": "file_save",
+    "pattern": "mess_menu.csv"
+  },
+  "actions": [
+    {
+      "type": "agent_execution",
+      "prompt": "Validate the mess_menu.csv file:\n1. Check CSV format and headers\n2. Verify all required columns exist\n3. Validate price ranges (should be reasonable)\n4. Check for duplicate entries\n5. Ensure all Week_Type, Day, Meal_Type combinations are valid\n6. Report any data quality issues"
+    }
+  ],
+  "enabled": true
+}

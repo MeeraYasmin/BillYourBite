@@ -1,0 +1,14 @@
+{
+  "name": "Code Review Assistant",
+  "description": "Manual code review following BillYourBite standards",
+  "trigger": {
+    "type": "manual"
+  },
+  "actions": [
+    {
+      "type": "agent_execution",
+      "prompt": "Conduct thorough code review of BillYourBite app:\n1. Check adherence to PEP 8 and project standards\n2. Review function organization and single responsibility principle\n3. Validate caching implementation (@st.cache_data usage)\n4. Assess form handling and validation logic\n5. Review student information security and privacy\n6. Check UI consistency (emojis, colors, responsive layout)\n7. Evaluate error handling and user feedback mechanisms\n8. Review file naming and download functionality\n9. Validate input sanitization for student data\n10. Suggest refactoring opportunities for maintainability\n11. Verify accessibility best practices\n12. Provide actionable improvement recommendations"
+    }
+  ],
+  "enabled": true
+}
